@@ -1,0 +1,23 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Characteristic functions}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Beta distribution: \texttt {cfbeta(t, shape1, shape2, ncp = 0)}}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Binomial distribution: \texttt {cfbinom(t, size, prob)}}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Cauchy Distribution: \texttt {cfcauchy(t, location = 0, scale = 1)}}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Chi-square Distribution: \texttt {cfchisq(t, df, ncp = 0)}}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Exponential Distribution: \texttt {cfexp(t, rate = 1)}}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}$F$ Distribution: \texttt {cff(t, df1, df2, ncp, kmax = 10)}}{5}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Gamma Distribution: \texttt {cfgamma(t, shape, rate = 1, scale = 1/rate)}}{6}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Geometric Distribution: \texttt {cfgeom(t, prob)}}{6}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Hypergeometric Distribution: \texttt {cfhyper(t, m, n, k)}}{6}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Logistic Distribution: \texttt {cflogis(t, location = 0, scale = 1)}}{7}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Lognormal Distribution: \texttt {cflnorm(t, meanlog = 0, sdlog = 1)}}{7}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}Negative Binomial Distribution: \texttt {cfnbinom(t, size, prob, mu)}}{8}{subsection.2.12}%
+\contentsline {subsection}{\numberline {2.13}Normal Distribution: \texttt {cfnorm(t, mean = 0, sd = 1)}}{9}{subsection.2.13}%
+\contentsline {subsection}{\numberline {2.14}Poisson Distribution: \texttt {cfpois(t, lambda)}}{9}{subsection.2.14}%
+\contentsline {subsection}{\numberline {2.15}Wilcoxon Signed Rank Distribution: \texttt {cfsignrank(t, n)}}{9}{subsection.2.15}%
+\contentsline {subsection}{\numberline {2.16}Student's $t$ Distribution: \texttt {cft(t, df, ncp)}}{10}{subsection.2.16}%
+\contentsline {subsection}{\numberline {2.17}Continuous Uniform Distribution: \texttt {cfunif(t, min = 0, max = 1)}}{11}{subsection.2.17}%
+\contentsline {subsection}{\numberline {2.18}Weibull Distribution: \texttt {cfweibull(t, shape, scale = 1)}}{11}{subsection.2.18}%
+\contentsline {subsection}{\numberline {2.19}Wilcoxon Rank Sum Distribution: \texttt {cfwilcox(t, m, n)}}{12}{subsection.2.19}%
+\contentsline {section}{\numberline {3}\textsf {R} Session information}{12}{section.3}%
